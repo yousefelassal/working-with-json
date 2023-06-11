@@ -55,3 +55,4 @@ function populateHeader(obj) {
     }
   }
   
+  populate();
